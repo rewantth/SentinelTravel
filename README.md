@@ -11,9 +11,6 @@ SentinelTravel is a full-stack SOC platform for detecting impossible geographic 
 
 All data is synthetic. NexusCorp, all employees, login events, IP addresses, device fingerprints, and attack scenarios are generated for demonstration only.
 
-## Demo GIF
-
-[ Demo GIF — record with QuickTime and upload here ]
 
 ## Overview
 
@@ -286,21 +283,6 @@ The sample generator creates a dynamic fictional company identity environment:
 - New browser and OS login
 - New country login in an active geopolitical-risk destination
 
-## Screenshots
-
-Add screenshots here after running the app:
-
-- Boot sequence
-- Neural Threat Grid
-- Mission Briefing with Immediate Response
-- World Map geopolitical overlay
-- Signal Intercept Tape and Decision Log
-
-## Resume Bullets
-
-- Engineered a production-grade impossible travel detection engine using Haversine geodesic calculations, dynamic user baseline profiling, and MITRE ATT&CK technique mapping (T1078, T1110, T1090, T1556) with a confidence scoring system across 15 synthetic attack scenarios.
-- Designed an immersive Neural Threat Grid SOC dashboard featuring a terminal boot sequence, live threat ticker, geopolitical risk overlay, WebSocket real-time streaming, analyst kill-switch panel, and CRT scanline aesthetics — built with React, Tailwind CSS, Leaflet.js, and Recharts.
-- Implemented full SOC triage workflow with audit logging, analyst notes, alert suppression rules, SIEM-style JSON/CSV exports, and a decision log — simulating enterprise-grade identity threat response used by real SOC teams.
 
 ## Future Improvements
 
